@@ -1,0 +1,35 @@
+*{
+    text-align: center;
+}
+.box{
+    border:5px solid black;
+    border-radius: 2rem;
+    height:200px;
+    width:200px;
+   margin-bottom: 5px;
+   margin-right:5px;
+}
+#parent{
+    height:450px;
+    width:450px;
+    display:flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin:0px auto;
+}
+.navy{
+    background-color: rgb(29, 91, 121);
+}
+.red{
+    background-color:rgb(239, 98, 98) ;
+}
+.purple{
+background-color:rgb(122, 49, 111) ;
+}
+.orange{
+background-color: rgb(243, 170, 96);
+}
+
+.flash{
+    background-color: white;
+}
